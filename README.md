@@ -1,6 +1,7 @@
 # Cohort Retention Analysis | SQL + Google Sheets
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)](https://sheets.google.com/)
+
 User retention analysis comparing organic vs promo acquisition quality across 6 monthly cohorts, built using PostgreSQL for data preparation and Google Sheets for cohort visualisation.
 
 ---
