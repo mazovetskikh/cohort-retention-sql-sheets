@@ -67,7 +67,7 @@ Final output: unique active users per `promo_signup_flag` + `cohort_month` + `mo
 
 <img width="557" height="290" alt="Cohort_Retention_Analysis" src="https://github.com/user-attachments/assets/b4f8e403-6ffc-4dd4-92ca-1d6b82ecf1c3" />
 
-📊 [View Interactive Dashboard in Google Sheets](https://docs.google.com/spreadsheets/d/1WRT2tJ6sffCDvaqePhjH6VpLKvHrk1BRHP0ceX8XwP0/edit?usp=sharing)
+📊 [View Interactive Dashboard in Google Sheets](https://docs.google.com/spreadsheets/d/1WRT2tJ6sffCDvaqePhjH6VpLKvHrk1BRHP0ceX8XwP0/edit?gid=359253252#gid=359253252)
 
 ---
 
