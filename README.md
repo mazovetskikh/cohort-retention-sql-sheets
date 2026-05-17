@@ -58,8 +58,6 @@ Final output: unique active users per `promo_signup_flag` + `cohort_month` + `mo
 
 <img width="557" height="290" alt="Cohort_Retention_Analysis" src="https://github.com/user-attachments/assets/b4f8e403-6ffc-4dd4-92ca-1d6b82ecf1c3" />
 
-📊 [View Interactive Dashboard in Google Sheets](https://docs.google.com/spreadsheets/d/1WRT2tJ6sffCDvaqePhjH6VpLKvHrk1BRHP0ceX8XwP0/edit?gid=359253252#gid=359253252)
-
 <a href="https://docs.google.com/spreadsheets/d/1WRT2tJ6sffCDvaqePhjH6VpLKvHrk1BRHP0ceX8XwP0/edit?gid=359253252#gid=359253252"><img src="https://img.shields.io/badge/VIEW%20INTERACTIVE%20DASHBOARD-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"></a>
 ---
 
