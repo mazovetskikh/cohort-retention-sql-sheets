@@ -89,7 +89,8 @@ Overall, the data points to a consistent user experience with periodic improveme
 
 ## Tools & Techniques
 
-**SQL (PostgreSQL / DBeaver)**
+**SQL (PostgreSQL / DBeaver)** 
+<a href="https://github.com/mazovetskikh/cohort-retention-sql-sheets/blob/main/cohort_analysis.sql"><img src="https://img.shields.io/badge/VIEW%20SQL%20SCRIPT-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 - Multi-CTE pipeline for date cleaning and cohort construction
 - `regexp_replace`, `split_part`, `trim` for text standardisation
 - `to_date`, `date_trunc`, `EXTRACT`, `AGE` for date calculations
