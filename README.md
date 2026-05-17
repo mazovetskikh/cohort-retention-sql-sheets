@@ -56,15 +56,6 @@ Final output: unique active users per `promo_signup_flag` + `cohort_month` + `mo
 
 ## Cohort Tables (All Users Combined)
 
-| Cohort | Month 0 | Month 1 | Month 2 | Month 3 | Month 4 | Month 5 |
-|---|---|---|---|---|---|---|
-| Jan 2025 | 104 | 79 (76%) | 71 (68%) | 55 (53%) | 49 (47%) | 42 (40%) |
-| Feb 2025 | 104 | 70 (67%) | 65 (63%) | 62 (60%) | 51 (49%) | — |
-| Mar 2025 | 82 | 59 (72%) | 61 (74%) | 52 (63%) | — | — |
-| Apr 2025 | 105 | 74 (70%) | 61 (58%) | — | — | — |
-| May 2025 | 108 | 76 (70%) | — | — | — | — |
-| Jun 2025 | 97 | — | — | — | — | — |
-
 <img width="557" height="290" alt="Cohort_Retention_Analysis" src="https://github.com/user-attachments/assets/b4f8e403-6ffc-4dd4-92ca-1d6b82ecf1c3" />
 
 📊 [View Interactive Dashboard in Google Sheets](https://docs.google.com/spreadsheets/d/1WRT2tJ6sffCDvaqePhjH6VpLKvHrk1BRHP0ceX8XwP0/edit?gid=359253252#gid=359253252)
