@@ -110,7 +110,3 @@ Overall, the data points to a consistent user experience with periodic improveme
 - Retention rate formulas with relative referencing
 - Conditional formatting (gradient heatmap)
 - Interactive slicer filtering by `promo_signup_flag`
-
----
-
-*Total users analysed: 600 across 6 cohorts (Jan–Jun 2025)*
