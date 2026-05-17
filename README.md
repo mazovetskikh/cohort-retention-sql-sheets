@@ -1,4 +1,4 @@
-# Cohort Retention Analysis — SQL + Google Sheets
+# Cohort Retention Analysis [SQL + Google Sheets]
 
 User retention analysis comparing organic vs promo acquisition quality across 6 monthly cohorts, built using PostgreSQL for data preparation and Google Sheets for cohort visualisation.
 
