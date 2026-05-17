@@ -65,6 +65,8 @@ Final output: unique active users per `promo_signup_flag` + `cohort_month` + `mo
 | May 2025 | 108 | 76 (70%) | — | — | — | — |
 | Jun 2025 | 97 | — | — | — | — | — |
 
+<img width="557" height="290" alt="Cohort_Retention_Analysis" src="https://github.com/user-attachments/assets/b4f8e403-6ffc-4dd4-92ca-1d6b82ecf1c3" />
+
 ---
 
 ## Organic vs Promo: Key Numbers
