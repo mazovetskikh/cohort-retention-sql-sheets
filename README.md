@@ -90,8 +90,6 @@ Overall, the data points to a consistent user experience with periodic improveme
 ## Tools & Techniques
 
 **SQL (PostgreSQL / DBeaver)** 
-
-<a href="https://github.com/mazovetskikh/cohort-retention-sql-sheets/blob/main/cohort_analysis.sql"><img src="https://img.shields.io/badge/VIEW%20SQL%20SCRIPT-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 - Multi-CTE pipeline for date cleaning and cohort construction
 - `regexp_replace`, `split_part`, `trim` for text standardisation
 - `to_date`, `date_trunc`, `EXTRACT`, `AGE` for date calculations
@@ -99,9 +97,9 @@ Overall, the data points to a consistent user experience with periodic improveme
 - Filtering of test events and out-of-window activity
 
 **Google Sheets**
-
-<a href="https://docs.google.com/spreadsheets/d/1WRT2tJ6sffCDvaqePhjH6VpLKvHrk1BRHP0ceX8XwP0/edit?gid=359253252#gid=359253252"><img src="https://img.shields.io/badge/VIEW%20COHORT%20TABLES%20IN%20GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"></a>
 - Pivot tables for cohort structure
 - Retention rate formulas with relative referencing
 - Conditional formatting (gradient heatmap)
 - Interactive slicer filtering by `promo_signup_flag`
+
+<a href="https://github.com/mazovetskikh/cohort-retention-sql-sheets/blob/main/cohort_analysis.sql"><img src="https://img.shields.io/badge/VIEW%20SQL%20SCRIPT-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a><a href="https://docs.google.com/spreadsheets/d/1WRT2tJ6sffCDvaqePhjH6VpLKvHrk1BRHP0ceX8XwP0/edit?gid=359253252#gid=359253252"><img src="https://img.shields.io/badge/VIEW%20COHORT%20TABLES%20IN%20GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"></a>
